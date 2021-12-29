@@ -2,6 +2,9 @@
 
 This is intendid to be a list of specfications to solve major problems with web3.
 
+# Contributing to the Web3 Specs
+If you have an idea for how to improve web3, we would love to hear from you. Detailed instructions can be found in Contributing.md
+
 # Philosophy
 These specifications are built around the following core philosophies that web3 should adopt.
 
