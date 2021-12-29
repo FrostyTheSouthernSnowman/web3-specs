@@ -25,4 +25,4 @@ Below, you can find a small list of problems that these specs look to solve.
 - web3 has no proper specification or api
 - web3 does not support both public and private resources
 
-A full set of web3's problems is avallible in Problems.md
+A full set of web3 problems that should be fixed is avallible in Problems.md
