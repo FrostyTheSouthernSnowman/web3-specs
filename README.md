@@ -23,7 +23,6 @@ Below, you can find a small list of problems that these specs look to solve.
 - web3 is hard to adopt as a business and a consumer
 - web3 lacks scalable protocols
 - web3 has no proper specification or api
-- web3 is entirely dependant on ethereum
-- web3 has no clear vision it provides for companies that use it
+- web3 does not support both public and private resources
 
 A full set of web3's problems is avallible in Problems.md
