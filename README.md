@@ -23,4 +23,4 @@ Below, you can find a small list of problems that these specs look to solve.
 - web3 is entirely dependant on ethereum
 - web3 has no clear vision it provides for companies that use it
 
-A full set of web3's problems is avallible in problems.md
+A full set of web3's problems is avallible in Problems.md
