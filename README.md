@@ -26,3 +26,6 @@ Below, you can find a small list of problems that these specs look to solve.
 - web3 does not support both public and private resources
 
 A full set of web3 problems that should be fixed is avallible in Problems.md
+
+# License
+This project is licensd under MIT License. More details can be found in LICENSE.
