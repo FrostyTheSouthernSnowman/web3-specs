@@ -6,10 +6,14 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/FrostyTheSouthernSnowman/web3-specs)
 ![GitHub](https://img.shields.io/github/license/FrostyTheSouthernSnowman/web3-specs)
 
-This is intendid to be a list of specfications to solve major problems with web3.
+These specifications are intended to bring web3 to a new level. Ease of development and adoption are critical for improving web3. If web3 can atract businesses, they will improve web3.
+
+# What is web3?
+Web3 is a new iteration of the internet built for scalable, secure, geographically distributed computing. With better mobile, edge, and IOT devices, it is important to have a network that will support distribution of workloads and easy sharing of data across these mobile devices. Web3 should also take into account advancements in computing such as TPU and quantum processors so its users can take advantage of these invovations. Secure storage and analysis of data is critical for web3's success.  
 
 # Table of contents
 - [Overview](#web3s-unoficial-specifications)
+- [What is web3](#what-is-web3)
 - [TOC](#table-of-contents)
 - [Vision](#vision)
 - [Philosophy](#philosophy)
