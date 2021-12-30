@@ -8,8 +8,13 @@
 
 These specifications are intended to bring web3 to a new level. Ease of development and adoption are critical for improving web3. If web3 can atract businesses, they will improve web3.
 
-# What is web3?
+# What Is Web3?
+## Or What Should It Realistically Be?
 Web3 is a new iteration of the internet built for scalable, secure, geographically distributed computing. With better mobile, edge, and IOT devices, it is important to have a network that will support distribution of workloads and easy sharing of data across these mobile devices. Web3 should also take into account advancements in computing such as TPU and quantum processors so its users can take advantage of these invovations. Secure storage and analysis of data is critical for web3's success.  
+
+## What Web3 Realistically Isn't 
+
+Web3 isn't a brand new internet. If you want that, build it, and call it something else. Web3 also isn't something totally different from web2. Web3 is an extension of web2. If you build web3 as something totally different, companies will be less incentivived to adopt it and web3's growth will be highly inhibited.
 
 # Table of contents
 - [Overview](#web3s-unoficial-specifications)
@@ -18,6 +23,7 @@ Web3 is a new iteration of the internet built for scalable, secure, geographical
 - [Vision](#vision)
 - [Philosophy](#philosophy)
 - [Moto](#moto)
+- [Specs](#specs)
 - [Contribute](#contributing)
 - [License](#license)
 
@@ -53,6 +59,11 @@ Below, you can find a small list of problems that these specs look to solve.
 - web3 does not support both public and private resources
 
 A full set of web3 problems that should be fixed is avallible in Problems.md
+
+# Specs
+[(Back to top)](#table-of-contents)
+
+The specifications are located in the [`specs`](./specs/README.md#web3-specifications) directory.
 
 # Contributing 
 [(Back to top)](#table-of-contents)
