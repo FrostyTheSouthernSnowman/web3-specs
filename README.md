@@ -6,7 +6,7 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/FrostyTheSouthernSnowman/web3-specs)
 ![GitHub](https://img.shields.io/github/license/FrostyTheSouthernSnowman/web3-specs)
 
-These specifications are intended to bring web3 to a new level. Ease of development and adoption are critical for improving web3. If web3 can atract businesses, they will improve web3.
+These specifications are intended to bring web3 to a new level. Ease of development and adoption are critical for improving web3. If web3 can attract businesses, they will improve web3.
 
 # What Is Web3?
 ## Or What Should It Realistically Be?
