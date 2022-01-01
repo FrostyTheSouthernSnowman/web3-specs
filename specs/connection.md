@@ -21,3 +21,4 @@ All request are TCP and for step 3, the port will whichever one was specified in
 
 3: A message containing the data `who peers` is sent to all the device's peers to which they will respond with a list of peer IPs separated by white spaces. These IPs are stored for later use.
 
+The next time the node connects, it can use the newly created records to bypass step 1.
