@@ -63,7 +63,7 @@ A full set of web3 problems that should be fixed is avallible in Problems.md
 # Specs
 [(Back to top)](#table-of-contents)
 
-The specifications are located in the [`specs`](./specs/README.md#web3-specifications) directory.
+The specifications are located in the [`specs`](./specs/README.md#web3-specifications) directory. In the root of the directory are the connection specifications and under the [`OAGIS`](./specs/OAGIS/README.md#open-agi-specifications-(oagis)) directory specifies the design of AGIs.
 
 # Contributing 
 [(Back to top)](#table-of-contents)

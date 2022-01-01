@@ -6,3 +6,6 @@ Geographically Distributed Virtual Machine is the implementation and its virtual
 
 ## AGIs 
 Application GeoDiVMac Interfaces are used by programs to talk to web3 implementation
+
+## CATs
+Customizable Access Tags is a xml-like language for accessing data from AGIs
